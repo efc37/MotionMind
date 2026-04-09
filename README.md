@@ -205,4 +205,4 @@ Ver el archivo [LICENSE](LICENSE) para más detalles.
 ## Autoras
 
 - **Sara Mora García** 
-- **Elena Fernández Cebriaán**
+- **Elena Fernández Cebrián**
